@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Sandeep Patidar! 👋
 
-<!--
-**sandeep-Patidar-18/sandeep-Patidar-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🏫 About Me
+- 🎓 **M.C.A Student** currently diving deep into Computer Applications.
+- 🧪 **Chemistry Teacher**  **Apical Agri Academy**.
+- 💻 **Full Stack Developer** in training, focusing on HTML, CSS, JavaScript, and FastAPI.
 
-Here are some ideas to get you started:
+## 🚀 My Mission
+I am building digital tools to bridge the gap between **Agriculture** and **Technology**. My goal is to create smart testing platforms and data-driven apps for students and farmers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🛠️ Tech Stack
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Backend:** FastAPI, Python
+- **Tools:** VS Code, Git, GitHub
+
+## 📫 How to reach me
+- 💼 [LinkedIn](YOUR_LINKEDIN_URL_HERE)
+- 📧 sandeepscience18@gmail.com
+.
 -->
