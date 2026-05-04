@@ -14,7 +14,7 @@ I am building digital tools to bridge the gap between **Agriculture** and **Tech
 - **Tools:** VS Code, Git, GitHub
 
 ## 📫 How to reach me
-- 💼 [LinkedIn](YOUR_LINKEDIN_URL_HERE)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sandeep-patidar-02a68b330)
 - 📧 sandeepscience18@gmail.com
 .
 -->
